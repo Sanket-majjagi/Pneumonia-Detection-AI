@@ -1,0 +1,7 @@
+chest_xray/
+chest_xray_balanced/
+*.zip
+__pycache__/
+.ipynb_checkpoints/
+gui_For_save
+Resources/
